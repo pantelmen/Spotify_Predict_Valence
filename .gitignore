@@ -1,4 +1,4 @@
-/.ipynb_checkpoints/
-/__pycache__/
-/.cache
-/config.py
+.ipynb_checkpoints/
+__pycache__/
+.cache
+spotify_config.py
